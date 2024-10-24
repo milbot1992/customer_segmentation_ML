@@ -53,4 +53,4 @@ Libraries Used
 Author
 ------
 
--   [Millie Ellis](https://github.com/millieellis)
+-   [Millie Ellis](https://github.com/milbot1992)
